@@ -18,6 +18,7 @@ header {
 }
 
 .logo {
+    background-color: #222;
     font-size: 1.5rem;
     font-weight: bold;
     color: #12e0f3;
@@ -57,7 +58,7 @@ header {
 }
 
 div {
-    background-color: #222;
+    background-color: #444444;
     color: #fff;
     text-align: left;
     padding: 20px;
