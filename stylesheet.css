@@ -43,10 +43,14 @@ header {
 }
 
 .section {
-    display: none; /* Hide all sections by default */
-    padding: 4rem 2rem;
+    display: none;
+    height: 71vh;
+    padding: 2rem;
     text-align: center;
     background: #f4f4f4;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .section.active {
