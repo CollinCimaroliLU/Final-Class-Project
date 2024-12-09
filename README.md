@@ -12,4 +12,4 @@
 
 #ClassProductProposal
 
-    https://github.com/CollinCimaroliLU/ClassProductProposal.git
+    https://collincimarolilu.github.io/ClassProductProposal/
