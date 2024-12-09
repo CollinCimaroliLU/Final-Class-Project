@@ -44,7 +44,6 @@ header {
 
 .section {
     display: none;
-    height: 71vh;
     padding: 2rem;
     text-align: center;
     background: #f4f4f4;
@@ -55,6 +54,15 @@ header {
 
 .section.active {
     display: block; /* Show only the active section */
+}
+
+div {
+    background-color: #222;
+    color: #fff;
+    text-align: left;
+    padding: 20px;
+    align: center;
+
 }
 
 footer {
@@ -75,4 +83,12 @@ h2 {
     text-decoration-line: underline;
     text-decoration-thickness: auto;
     text-decoration-color: #12e0f3;
+}
+
+h4 {
+    text-indent: 3%;
+}
+
+p.info {
+    text-indent: 5%;
 }
